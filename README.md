@@ -1,3 +1,6 @@
+[![Vibor-karti.png](https://i.postimg.cc/yx6XsFqD/Vibor-karti.png)](https://postimg.cc/5YGFmQ2J)
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
