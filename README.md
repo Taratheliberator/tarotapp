@@ -1,6 +1,6 @@
-
-[![Vibor-Karti.png](https://i.postimg.cc/wT925RBf/Vibor-Karti.png)](https://postimg.cc/MXr1qTVV)
 [![Tarot-one-card.png](https://i.postimg.cc/tCZx0X7d/Tarot-one-card.png)](https://postimg.cc/D8hZL3rm)
+[![Vibor-Karti.png](https://i.postimg.cc/wT925RBf/Vibor-Karti.png)](https://postimg.cc/MXr1qTVV)
+
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
