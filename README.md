@@ -1,5 +1,5 @@
 [![Vibor-karti.png](https://i.postimg.cc/yx6XsFqD/Vibor-karti.png)](https://postimg.cc/5YGFmQ2J)
-
+[![Vibor-Karti.png](https://i.postimg.cc/wT925RBf/Vibor-Karti.png)](https://postimg.cc/MXr1qTVV)
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
